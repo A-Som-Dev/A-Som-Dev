@@ -53,7 +53,3 @@ Nutze KI täglich zum Entwickeln. Eigene Agents, MCP-Server, Prompt Engineering.
 | 2017 - 2020 | Fraunhofer ITWM | Software Entwickler |
 
 Details auf [Freelancermap](https://www.freelancermap.de/profil/artur-sommer) und [LinkedIn](https://www.linkedin.com/in/a-som-dev).
-
-## AI & Automation
-
-Nutze KI täglich zum Entwickeln. Eigene Agents, MCP-Server, Prompt Engineering. Kein Hype-Thema für mich, eher Werkzeug wie git oder docker. Setze ich für Scraping, Datenaufbereitung, Code Reviews und Automatisierung ein.
