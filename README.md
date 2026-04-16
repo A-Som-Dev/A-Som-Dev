@@ -6,7 +6,7 @@ Java/Spring Boot im Beruf, Python und alles andere daneben. Hab in den letzten J
 
 ## Aktuelles Open-Source-Projekt
 
-**[AInonymity](https://github.com/A-Som-Dev/ainonymous)** · TypeScript · Apr 2026
+**[AInonymous](https://github.com/A-Som-Dev/ainonymous)** · TypeScript · Apr 2026
 
 Lokaler Proxy zwischen IDE und LLM-API. Anonymisiert Quellcode, Secrets, Personennamen und Code-Identifier bevor sie zu Anthropic/OpenAI gehen, mappt Antworten zurück. Damit Konzerne Claude Code, Cursor und Aider nutzen können ohne DSGVO-Konflikte.
 
