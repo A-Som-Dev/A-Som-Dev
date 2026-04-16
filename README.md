@@ -6,7 +6,7 @@ Java/Spring Boot im Beruf, Python und alles andere daneben. Hab in den letzten J
 
 ## Aktuelles Open-Source-Projekt
 
-**[AInonymity](https://github.com/A-Som-Dev/ainonymity)** · TypeScript · Apr 2026
+**[AInonymity](https://github.com/A-Som-Dev/ainonymous)** · TypeScript · Apr 2026
 
 Lokaler Proxy zwischen IDE und LLM-API. Anonymisiert Quellcode, Secrets, Personennamen und Code-Identifier bevor sie zu Anthropic/OpenAI gehen, mappt Antworten zurück. Damit Konzerne Claude Code, Cursor und Aider nutzen können ohne DSGVO-Konflikte.
 
@@ -42,7 +42,7 @@ Sci-Fi Strategiespiel inspiriert von einem alten Browserspiel. 22 Game Engines, 
 
 ## AI & Automation
 
-Nutze KI täglich zum Entwickeln. Eigene Agents, MCP-Server, Prompt Engineering. Kein Hype-Thema für mich, eher Werkzeug wie git oder docker. Setze ich für Scraping, Datenaufbereitung, Code Reviews und Automatisierung ein. AInonymity ist aus dieser Praxis entstanden.
+Nutze KI täglich zum Entwickeln. Eigene Agents, MCP-Server, Prompt Engineering. Kein Hype-Thema für mich, eher Werkzeug wie git oder docker. Setze ich für Scraping, Datenaufbereitung, Code Reviews und Automatisierung ein. AInonymous ist aus dieser Praxis entstanden.
 
 ## Beruflich
 
